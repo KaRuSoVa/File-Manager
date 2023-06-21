@@ -1,0 +1,60 @@
+[19-Jun-2023 11:19:01 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php on line 12
+[19-Jun-2023 11:19:01 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php:17
+Stack trace:
+#0 /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/connector.minimal.php(4): include()
+#1 {main}
+  thrown in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php on line 17
+[19-Jun-2023 11:19:07 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php on line 12
+[19-Jun-2023 11:19:07 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php:17
+Stack trace:
+#0 /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/connector.minimal.php(4): include()
+#1 {main}
+  thrown in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php on line 17
+[19-Jun-2023 11:19:56 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php on line 12
+[19-Jun-2023 11:19:56 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php:17
+Stack trace:
+#0 /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/connector.minimal.php(4): include()
+#1 {main}
+  thrown in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php on line 17
+[19-Jun-2023 11:19:59 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php on line 12
+[19-Jun-2023 11:19:59 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php:17
+Stack trace:
+#0 /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/connector.minimal.php(4): include()
+#1 {main}
+  thrown in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php on line 17
+[19-Jun-2023 11:20:02 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php on line 12
+[19-Jun-2023 11:20:02 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php:17
+Stack trace:
+#0 /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/connector.minimal.php(4): include()
+#1 {main}
+  thrown in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php on line 17
+[19-Jun-2023 11:20:28 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php on line 12
+[19-Jun-2023 11:20:28 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php:17
+Stack trace:
+#0 /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/connector.minimal.php(4): include()
+#1 {main}
+  thrown in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php on line 17
+[19-Jun-2023 11:24:05 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php on line 12
+[19-Jun-2023 11:24:05 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php:17
+Stack trace:
+#0 /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/connector.minimal.php(4): include()
+#1 {main}
+  thrown in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php on line 17
+[19-Jun-2023 11:24:38 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php on line 12
+[19-Jun-2023 11:24:38 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php:17
+Stack trace:
+#0 /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/connector.minimal.php(4): include()
+#1 {main}
+  thrown in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php on line 17
+[19-Jun-2023 11:24:40 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php on line 12
+[19-Jun-2023 11:24:40 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php:17
+Stack trace:
+#0 /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/connector.minimal.php(4): include()
+#1 {main}
+  thrown in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php on line 17
+[19-Jun-2023 11:27:50 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php on line 12
+[19-Jun-2023 11:27:50 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php:17
+Stack trace:
+#0 /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/connector.minimal.php(4): include()
+#1 {main}
+  thrown in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/php/database.php on line 17

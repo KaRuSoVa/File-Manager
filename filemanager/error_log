@@ -1,0 +1,9 @@
+[19-Jun-2023 11:15:30 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/database.php on line 12
+[19-Jun-2023 11:15:30 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/database.php:17
+Stack trace:
+#0 /home/u9979192/fm.digitalchateaux.com/dms/filemanager/file.php(4): include()
+#1 {main}
+  thrown in /home/u9979192/fm.digitalchateaux.com/dms/filemanager/database.php on line 17
+[21-Jun-2023 17:00:50 Europe/Istanbul] PHP Notice:  Undefined variable: rol in /home/u9979192/fm.digitalchateaux.com/filemanager/file.php on line 158
+[21-Jun-2023 17:01:27 Europe/Istanbul] PHP Notice:  Undefined variable: rol in /home/u9979192/fm.digitalchateaux.com/filemanager/file.php on line 158
+[21-Jun-2023 17:01:31 Europe/Istanbul] PHP Notice:  Undefined variable: rol in /home/u9979192/fm.digitalchateaux.com/filemanager/file.php on line 158
